@@ -1,0 +1,32 @@
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\bin\Debug\ABMEmpleadosv3.exe.config
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\bin\Debug\ABMEmpleadosv3.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\bin\Debug\ABMEmpleadosv3.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Properties.Resources.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Soporte.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FormPrincipal.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FrmFNGO.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FormNuevo.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\TP-parte-3\ABMEmpleadosv3\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.formEmpleados.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\bin\Debug\ABMEmpleadosv3.exe.config
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\bin\Debug\ABMEmpleadosv3.exe
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\bin\Debug\ABMEmpleadosv3.pdb
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.csproj.AssemblyReference.cache
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.formEmpleados.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FormPrincipal.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FormNuevo.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Properties.Resources.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Soporte.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.csproj.GenerateResource.cache
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.csproj.CoreCompileInputs.cache
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.exe
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.pdb
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FrmAEZ.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FrmCMA.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FrmJlG.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FrmSFJ.resources
+C:\Users\Agus\Downloads\FormEmpleados-main\FormEmpleados-main\ABMEmpleadosv3\obj\Debug\ABMEmpleadosv3.Presentacion.FrmFNGO.resources
